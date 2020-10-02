@@ -15,10 +15,7 @@ public class Note implements Serializable
 {
     private String title;
     private String contents;
-    
 
-
-    
     public Note()
     {
         title = "";

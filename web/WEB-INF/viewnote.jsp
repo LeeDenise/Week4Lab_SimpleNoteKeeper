@@ -18,6 +18,6 @@
         <h3>Title: </h3>${note.title}
         <h3>Contents:</h3>
         <p>${note.contents}</p>
-        <a>Edit</a>
+        <a href="note?edit">Edit</a>
     </body>
 </html>
